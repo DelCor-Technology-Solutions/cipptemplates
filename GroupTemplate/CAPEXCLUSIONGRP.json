@@ -1,0 +1,1 @@
+{"PartitionKey":"GroupTemplate","RowKey":"5d646ee2-7e3b-427a-a8ef-3a20abf4aff7","JSON":"{\"Displayname\":\"CAP-EXCLUSION-GRP\",\"Description\":\"Members are excluded from Conditional Access Policies\",\"groupType\":\"generic\",\"MembershipRules\":null,\"allowExternal\":null,\"username\":\"CAP-EXCLUSION-GRP\",\"GUID\":\"5d646ee2-7e3b-427a-a8ef-3a20abf4aff7\"}","table":"templates"}
