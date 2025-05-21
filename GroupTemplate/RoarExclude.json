@@ -1,0 +1,1 @@
+{"PartitionKey":"GroupTemplate","RowKey":"066bc47c-bfee-48e1-b5bd-f36b7a1953cf","JSON":"{\"Displayname\":\"RoarExclude\",\"Description\":\"Used to exclude from Liongard metrics and alerts\",\"groupType\":\"generic\",\"MembershipRules\":null,\"allowExternal\":null,\"username\":\"RoarExclude\",\"GUID\":\"066bc47c-bfee-48e1-b5bd-f36b7a1953cf\"}","table":"templates"}
